@@ -2,7 +2,6 @@ struct SubrectangleQueries {
     rectangle: Vec<Vec<i32>>
 }
 
-
 /** 
  * `&self` means the method takes an immutable reference.
  * If you need a mutable reference, change it to `&mut self` instead.
